@@ -1,3 +1,3 @@
-# tiposdepasteles
-Howework regarding types of cakes. 
-TIPOS DE PASTELES. 
+# Tipos de pasteles
+Howework regarding types of cakes.  
+### Pastel de Chocolate
