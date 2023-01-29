@@ -26,6 +26,7 @@ Son las pasteles que en lugar de usar mantequilla usamos aceite, lo que le da a 
 1. Pastel de Zanahoria
 2. Devil´sfood
 3. Chiffon
+
 ![pastel de zanahoria]( https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2019/10/pastel-de-zanahoria-con-avena-sencillo.jpg"pastel de zanahoria") 
 
 
@@ -38,6 +39,8 @@ Para estos pasteles se debe hacer una natilla o crema espesa que pueda cocinarse
 1. Cheesecakes
 2. Natillas
 3. etc...
+
+
 ![cheesecake de fresa](https://www.recipetineats.com/wp-content/uploads/2022/11/Mini-cheesecakes_8-2.jpg "cheesecake de fresa")  
 
 ![cheesecake](https://aprende.com/wp-content/uploads/2020/11/pasteles-de-natilla.png "cheesecake")
