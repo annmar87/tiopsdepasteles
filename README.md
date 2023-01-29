@@ -17,7 +17,7 @@
 
 **Pero hoy solo hablaremos de 3.** 
 
-- *Pasteles de Aceite*
+ ## **Pasteles de Aceite**
 
 Son las pasteles que en lugar de usar mantequilla usamos aceite, lo que le da a estas pasteles un resultado húmedo con una estructura suave. El éxito de esto es que su estado líquido debe mantenerse fuera del horno, estos pasteles utilizan huevos batidos para aligerar la textura. Para elevarlos necesita agentes de fermentacion química.
 
@@ -30,7 +30,7 @@ Son las pasteles que en lugar de usar mantequilla usamos aceite, lo que le da a 
 ![pastel de zanahoria]( https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2019/10/pastel-de-zanahoria-con-avena-sencillo.jpg"pastel de zanahoria") 
 
 
-## Pasteles de Natilla
+## **Pasteles de Natilla**
 
 Para estos pasteles se debe hacer una natilla o crema espesa que pueda cocinarse en baño maria o en el horno a una temperatura media-baja. 
 
@@ -45,7 +45,7 @@ Para estos pasteles se debe hacer una natilla o crema espesa que pueda cocinarse
 
 ![cheesecake](https://aprende.com/wp-content/uploads/2020/11/pasteles-de-natilla.png "cheesecake")
 
-## Pastel de Mantequilla
+## **Pasteles de Mantequilla**
 
 Uno de los pasteles mas buscados y famosos son los pasteles de mantequilla. este tipo de pastel se elabora por el metodo de cemage o cremado, que consiste en batir la mantequilla a temperatura ambiente con la azucar. 
 
