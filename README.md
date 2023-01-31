@@ -54,4 +54,4 @@ Uno de los pasteles mas buscados y famosos son los pasteles de mantequilla. este
 - Quatre quarts
 - Pound cake
 
-![Quatre quarts]( https://www.france-voyage.com/visuals/photos/quatre-quarts-31064_w600.webp "quatre quarts")
+![Quatre quarts](https://www.france-voyage.com/visuals/photos/quatre-quarts-31064_w600.webp "quatre quarts")
